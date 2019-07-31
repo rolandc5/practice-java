@@ -9,7 +9,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println(Basic.multiplyByTen(10));
+    	//run the test application.
     }
 }
